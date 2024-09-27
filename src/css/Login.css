@@ -1,0 +1,46 @@
+.containerPrincipal{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid black;
+    padding: 40px;
+    background-color: rgb(213, 235, 226);
+}
+
+.Appp{
+    /* position: relative; */
+    left: 5%;
+    right: 55%;
+    /* top: 50%; */
+
+    /* transform: translate(-100%, -50%); */
+    border: 5px solid black;
+    padding: 50px;
+    /* background-color: rgb(153, 233, 202); */
+}
+
+.containerSecundario{
+    text-align: center;
+}
+
+input[type=text]{
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 20px;
+     border: 1px solid black;
+    }
+
+input[type=password]{
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 20px;
+     border: 1px solid black;
+    }
+
+input[type=number]{
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 20px;
+     border: 1px solid black;
+    }
