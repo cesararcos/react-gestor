@@ -11,7 +11,7 @@ function Login() {
     usuario: '',
     contrasena: '',
     rol: ''
-  })
+  });
 
   //Metodo para capturar data de input
   const handleChange = e => {
